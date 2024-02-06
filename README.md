@@ -1,26 +1,14 @@
 <h1 align="center">👋 Hi, I’m Elena Emonova</h1>
 
-### 👨🏻‍💻 &nbsp;About Me <img width="35%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
+### :alien: &nbsp;About Me <img width="35%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
 
-QA Engineer
+QA Engineer  
+
+Мои контакты:
 
 <a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
 
-## :man_student: My projects at [QA GURU](https://qa.guru/)
-
-<p align="left">  
- <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
-</p>
- 
-  |      Project name               |                   GitHub links                                   
-  |-------------------------------- |-----------------------------------------------------------------------|
-  |         UI project              |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  |        API project              |   [API_TESTS](https://github.com/le-vi-che/mobile_project)            |  
-  |       Mobile progect            |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
-
-
-
-## 🚀 Tech Stack
+## :computer: Мои инструменты и технологии
  <p align="center">
 <img width="7%" title="IntelliJ IDEA" src="media/IJ.svg">
 <img width="7%" title="Java" src="media/java.svg">
@@ -34,6 +22,22 @@ QA Engineer
 <img width="7%" title="Appium" src="media/appium.svg">
 <img width="7%" title="BrowserStack" src="media/Browserstack.svg">
 </p>
+
+## :man_student: Мои дипломные проекты для [QA GURU](https://qa.guru/)
+
+<p align="left">  
+ <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
+</p>
+ 
+  |      Project name                                                      |                   GitHub links                                   
+  |----------------------------------------------------------------------- |-----------------------------------------------------------------------|
+  |  :star:       Проект UI автоматизации сайта АО "Райфайзен Банк"        |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
+  |  :star:      API project                                               |   [API_TESTS](https://github.com/le-vi-che/mobile_project)            |  
+  |  :star:    Проект Mobile автоматизации приложения Wikipedia            |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
+
+
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
