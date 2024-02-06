@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Елена</h1>
+<h1>👋 Привет, я Елена</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
