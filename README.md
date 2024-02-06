@@ -40,6 +40,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=le-vi-che&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=le-vi-che&theme=solarized_dark)
+
 
 ![]()
 ![]()
