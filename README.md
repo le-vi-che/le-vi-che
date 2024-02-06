@@ -5,7 +5,6 @@
 Middle QA  
 Junior QA Automation Engineer на Java
 
-<a href = "mailto:lena.jemonova@gmail.com"><img width="7%" title="Gmail" src="media/icons8-gmail.svg"></a>
 <a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
 
 ## :man_student: Diploma projects at [QA GURU](https://qa.guru/)
