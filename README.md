@@ -2,6 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me <img width="35%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
 
+Middle QA  
+Junior QA Automation Engineer на Java
 
 <a href = "mailto:lena.jemonova@gmail.com"><img width="7%" title="Gmail" src="media/icons8-gmail.svg"></a>
 <a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
@@ -20,19 +22,17 @@
 
 
 
-## Tech Stack
+## 🚀 Tech Stack
  <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="media/Idea.svg">
-<img width="7%" title="Java" src="media/Java.svg">
+<img width="7%" title="IntelliJ IDEA" src="media/IJ.svg">
+<img width="7%" title="Java" src="media/java.svg">
 <img width="7%" title="Selenide" src="media/Selenide.svg">
 <img width="7%" title="Selenoid" src="media/Selenoid.svg">
-<img width="7%" title="Allure Report" src="media/Allure.svg">
-<img width="7%" title="Gradle" src="media/Gradle.svg">
-<img width="7%" title="JUnit5" src="media/Junit5.svg">
-<img width="7%" title="Jenkins" src="media/Jenkins.svg">
-<img width="7%" title="Allure" src="media/Allure_TO.svg">
+<img width="7%" title="Allure Report" src="media/allure.svg">
+<img width="7%" title="Gradle" src="media/gradle.svg">
+<img width="7%" title="JUnit5" src="media/jUnit5.svg">
+<img width="7%" title="Jenkins" src="media/jenkins.svg">
 <img width="7%" title="Jira" src="media/Jira.svg">
-<img width="7%" title="Android" src="media/Android_Studio.png">
 <img width="7%" title="Appium" src="media/appium.svg">
 <img width="7%" title="BrowserStack" src="media/Browserstack.svg">
 </p>
