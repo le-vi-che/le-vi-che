@@ -13,10 +13,10 @@
 </p>
  
   |      Project name               |                   GitHub links                                   
-  |-------------------------------- |-------------------------------------------------------|
-  |         UI project              |   https://github.com/le-vi-che/UI_Raif_project        |  
-  |        API project              |   https://github.com/le-vi-che/mobile_project         |  
-  |       Mobile progect            |   https://github.com/le-vi-che/mobile_project         |  
+  |-------------------------------- |-----------------------------------------------------------------------|
+  |         UI project              |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
+  |        API project              |   [API_TESTS](https://github.com/le-vi-che/mobile_project)            |  
+  |       Mobile progect            |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
 
 
 
