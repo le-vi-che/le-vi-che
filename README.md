@@ -21,7 +21,7 @@
 <img width="7%" title="BrowserStack" src="media/Browserstack.svg">
 </p>
 
-## :man_student: Мои дипломные проекты для [QA GURU](https://qa.guru/)
+## :man_student: Дипломные проекты для [QA GURU](https://qa.guru/)
 
 <p align="left">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
