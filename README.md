@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
-QA Engineer  
-
 Мои контакты:
 
 <a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
