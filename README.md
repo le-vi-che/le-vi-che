@@ -2,12 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me <img width="35%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
 
-Middle QA  
-Junior QA Automation Engineer на Java
+QA Engineer
 
 <a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
 
-## :man_student: Diploma projects at [QA GURU](https://qa.guru/)
+## :man_student: My projects at [QA GURU](https://qa.guru/)
 
 <p align="left">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
