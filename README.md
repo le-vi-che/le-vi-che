@@ -27,11 +27,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  |      Project name                                                      |                   GitHub links                                   
-  |----------------------------------------------------------------------- |-----------------------------------------------------------------------|
-  |  :star:       Проект UI автоматизации сайта АО "Райфайзен Банк"        |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  |  :star:      API project                                               |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
-  |  :star:    Проект Mobile автоматизации приложения Wikipedia            |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
+  |      Project name                                                                |                   GitHub links                                   
+  |--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
+  |  :star:    Проект UI по автоматизации тестировании сайта АО "Райфайзен Банк"     |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
+  |  :star:      API project тестирования  сервиса Reqres.in                         |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
+  |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
 
 
 
