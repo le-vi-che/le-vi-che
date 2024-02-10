@@ -30,7 +30,7 @@
   |      Project name                                                                |                   GitHub links                                   
   |--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
   |  :star:    Проект UI по автоматизации тестировании сайта АО "Райфайзен Банк"     |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  |  :star:      API project тестирования  сервиса Reqres.in                         |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
+  |  :star:      API проект тестирования  сервиса Reqres.in                         |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
   |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
 
 
