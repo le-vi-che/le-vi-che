@@ -8,17 +8,18 @@
 
 ## :computer: Мои инструменты и технологии
  <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="media/IJ.svg">
-<img width="7%" title="Java" src="media/java.svg">
-<img width="7%" title="Selenide" src="media/Selenide.svg">
-<img width="7%" title="Selenoid" src="media/Selenoid.svg">
-<img width="7%" title="Allure Report" src="media/allure.svg">
-<img width="7%" title="Gradle" src="media/gradle.svg">
-<img width="7%" title="JUnit5" src="media/jUnit5.svg">
-<img width="7%" title="Jenkins" src="media/jenkins.svg">
-<img width="7%" title="Jira" src="media/Jira.svg">
-<img width="7%" title="Appium" src="media/appium.svg">
-<img width="7%" title="BrowserStack" src="media/Browserstack.svg">
+<a href="https://www.java.com/"><img src="/media/java.svg" width="70" height="70"  alt="Java"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="media/IJ.svg" width="70" height="70"  alt="IDEA"/></a>
+<a href="https://www.selenide.org/"><img src="media/Selenide.svg" width="70" height="70" alt="Selenide" title="Selenide"/></a> 
+<a href="https://aerokube.com/selenoid/"><img src="media/Selenoid.svg" width="70" height="70"  alt="Selenoid"/></a>
+<a href="https://www.atlassian.com/software/jira/"><img src="media/Selenoid.svg" width="70" height="70" alt="Jira" title="Selenoid"/></a> 
+<a href="https://github.com/allure-framework"><img src="media/allure.svg" width="70" height="70"  alt="Allure"/></a>
+<a href="https://gradle.org/"><img src="media/gradle.svg" width="70" height="70"  alt="Gradle"/></a>
+<a href="https://junit.org/junit5/"><img src="media/jUnit5.svg" width="70" height="70"  alt="JUnit 5"/></a>
+<a href="https://www.jenkins.io/"><img src="media/jenkins.svg" width="70" height="70"  alt="Jenkins"/></a>
+<a href="https://www.atlassian.com/software/jira/"><img src="media/Jira.svg" width="70" height="70" alt="Jira" title="Jira"/></a> 
+<a href="https://appium.io/docs/en/latest/"><img src="media/appium.svg" width="70" height="70" alt="Appium" title="Appium"/></a> 
+<a href="https://www.browserstack.com/"><img src="media/Browserstack.svg" width="70" height="70" alt="BrowserStack" title="BrowserStack"/></a> 
 </p>
 
 ## :man_student: Дипломные проекты для [QA GURU](https://qa.guru/)
